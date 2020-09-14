@@ -1,4 +1,4 @@
-package br.com.digitalhouse.exercicio1
+package br.com.digitalhouse.exercicio2
 
 class Item(val numItem: Int, val descricaoItem: String, var qtdItem: Int, var precoUniItem: Float) {
     init {

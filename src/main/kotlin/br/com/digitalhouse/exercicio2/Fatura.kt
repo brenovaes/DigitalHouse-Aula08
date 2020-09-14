@@ -1,4 +1,4 @@
-package br.com.digitalhouse.exercicio1
+package br.com.digitalhouse.exercicio2
 
 class Fatura(val listaItens: List<Item>) {
 

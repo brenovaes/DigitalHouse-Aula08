@@ -1,4 +1,4 @@
-package br.com.digitalhouse.exercicio1
+package br.com.digitalhouse.exercicio2
 
 fun main() {
     var item1 = Item(1, "Notebook", 1, 2500.0F)
